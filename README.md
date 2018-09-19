@@ -1,3 +1,7 @@
+####
+이 예제 코드는 argparse를 기가 막히게 잘 사용하고 있다.
+나중에 argparse사용할 일이 있을 때... 참고하자!!
+
 # netimpair
 An easy-to-use network impairment script for Linux written in Python
 
